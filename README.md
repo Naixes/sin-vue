@@ -1,6 +1,8 @@
 ## 介绍
 
-基于Vue的UI框架
+基于Vue的UI框架，本项目已经迁移至https://github.com/Naixes/sin-vue
+
+技术栈：vue-cli+sass+travis ci+vuepress
 
 [![Build Status](README.assets/sin-vue.svg)](https://app.travis-ci.com/Naixes/sin-vue.svg?branch=master)
 
