@@ -2,7 +2,7 @@
 
 基于Vue的UI框架
 
-[![Build Status](https://www.travis-ci.org/Naixes/sin-vue.svg?branch=master)](https://www.travis-ci.org/Naixes/sin-vue)
+[![Build Status](README.assets/sin-vue.svg)](https://app.travis-ci.com/Naixes/sin-vue.svg?branch=master)
 
 ## 开始使用
 
